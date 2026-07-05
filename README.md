@@ -76,3 +76,11 @@ This repository contains a hands-on network forensics laboratory focused on anal
 
 * **Process & Result:**
   * To observe a file's behavior safely and detect hidden malware inside email attachments, the required security control is **Sandboxing**. It isolates and tests suspicious links or attachments in a secure, virtual environment.
+
+---
+
+## Author
+
+**Yauheni Skrypnikau** — Career-changer building blue-team / SOC skills  
+*   **LinkedIn:** [linkedin.com/in/skrypnikau](https://www.linkedin.com/in/skrypnikau)
+*   **GitHub:** [github.com/skrypnikau](https://github.com/skrypnikau)
